@@ -55,7 +55,4 @@ This project implements a real-time face recognition system using Python and pow
 This project was inspired by the capabilities of OpenCV and the face_recognition library. Thanks to the developers for providing such powerful tools for computer vision.  
 
 ## License  
-This project is licensed under the MIT License. Feel free to modify and use it as needed.  
-
----
-```
+This project is licensed under the MIT License. Feel free to modify and use it as needed.
